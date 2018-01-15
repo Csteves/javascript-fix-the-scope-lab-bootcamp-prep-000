@@ -28,6 +28,7 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 function funky() {
 var theFunk = funkyFunction
+
 if (the funk = funkyFunction)
 return function()
 }
