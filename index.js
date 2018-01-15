@@ -29,7 +29,7 @@ var funkyFunction = function() {
 var theFunk = funkyFunction
 function funky() {
 if (theFunk = funkyFunction)
-return "Funky!"
+return "FUNKY!"
 }
 
 
